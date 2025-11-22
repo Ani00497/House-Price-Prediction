@@ -44,7 +44,7 @@ Welcome to the House Price Prediction project! This repository showcases a compl
 
 1. Clone the repo:
 	 ```powershell
-	 git clone https://github.com/zahir2003/House-Price-Prediction.git
+	 git clone https://github.com/Ani00497/House-Price-Prediction
 	 ```
 2. Open `House Price Prediction.ipynb` in Jupyter Notebook.
 3. Run all cells to reproduce results.
