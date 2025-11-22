@@ -51,9 +51,9 @@ Welcome to the House Price Prediction project! This repository showcases a compl
 
 ## 🤝 Contact & Credits
 
-- **Author:** Sk Mahiduzzaman
-- **LinkedIn:** [LinkedIn](www.linkedin.com/in/sk-mahiduzzaman)
-- **Email:** [Email](mailto:mohiduz03@gmail.com)
+- **Author:** Animesh Mukherjee
+- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/animesh-03-mukherjee/)
+- **Email:** [Email](mukherjeeanimesh18@gmail.com)
 
 ---
 
